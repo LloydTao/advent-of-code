@@ -6,9 +6,4 @@
 
 "Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants  _one star_. Good luck!"
 
-\- [https://adventofcode.com/2019](https://adventofcode.com/2019)
-
-### Solutions in Haskell
-
-Day 1: '[The Tyranny of the Rocket Equation](https://github.com/LloydTao/advent-of-code/2019/src/aoc19-day01-fuel.hs)'
-Calculate the fuel requirements of the spaceship.
+[https://adventofcode.com/2019](https://adventofcode.com/2019)
